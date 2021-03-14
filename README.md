@@ -1,2 +1,2 @@
 # todo
-Backend in Node.js for Simple To Do List App
+Backend in Node.js for To Do List App
